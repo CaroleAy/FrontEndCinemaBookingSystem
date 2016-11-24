@@ -1,0 +1,17 @@
+/*
+
+Cinema Website 
+	
+
+*/
+body {
+  font-family: Arial;
+  font-size: 18px; }
+
+.header__menu {
+  border: black; }
+
+.header__list {
+  border: black;
+  vertical-align: middle;
+  list-style: none; }

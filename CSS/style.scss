@@ -1,0 +1,46 @@
+/*
+
+Cinema Website 
+	
+
+*/
+
+// This comment works only in sass!
+$color-black: #333333;
+$color-white:#ffffff;
+
+body {
+
+font-family: Arial;
+font-size:18px;
+
+}
+
+.page {
+	
+}
+
+.header {
+	
+	&__logo {
+		
+	}
+	
+	&__menu {
+	
+	border:black;
+		
+	}
+	
+	&__lists{
+		
+	}
+	
+	&__list {
+	
+	border:black;
+	vertical-align: middle;
+	list-style: none;
+		
+	}
+}
